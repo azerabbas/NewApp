@@ -82,7 +82,7 @@ val LightAppColors = AppColorTokens(
     onTransferContainer = Color(0xFF3D1878),
 
     whatsapp = Color(0xFF25D366),
-    onWhatsapp = Color(0xFFFFFFFF),
+    onWhatsapp = Color(0xFF07200F),
 
     background = Color(0xFFF5F7FA),
     surface = Color(0xFFFFFFFF),
@@ -92,7 +92,7 @@ val LightAppColors = AppColorTokens(
 
     textPrimary = Color(0xFF101828),
     textSecondary = Color(0xFF475467),
-    textMuted = Color(0xFF98A2B3),
+    textMuted = Color(0xFF6D7480),
     textOnPrimary = Color(0xFFFFFFFF),
 
     finished = Color(0xFF667085),
